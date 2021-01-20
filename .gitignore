@@ -26,5 +26,6 @@ tmp/
 *~.nib
 local.properties
 .settings/
-.classpath
-.project
+# 
+# .classpath
+# .project
