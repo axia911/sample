@@ -33,5 +33,6 @@ public class Test {
 		System.out.println("오늘 찾을 수 있을까?OK?");
 		System.out.println("점심시간을 이용한 테스트");
 		System.out.println("ㅎㅎㅎㅎ");
+		System.out.println("스페이스바는 6시15분에 어디있는지 알려줄게");
 	}
 }
