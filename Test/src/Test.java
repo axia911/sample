@@ -6,6 +6,7 @@ public class Test {
 		
 
 		System.out.println("BBCDEFG");
+		System.out.println("ABC");
 		System.out.println("Hi my name is jhn");
 		System.out.println("머지툴");
 		
