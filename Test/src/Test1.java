@@ -12,6 +12,7 @@ public class Test1 {
 		System.out.println("????");
 		System.out.println("형 잤죠?");
 		System.out.println("하하");
+		System.out.println("배고프다");
 =======
 	public Test1() {
 		System.out.println("조요요오옹!");
