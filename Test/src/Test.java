@@ -2,6 +2,9 @@
 public class Test {
 
 	public static void main(String[] args) {
+
+		System.out.println("다시");
+
 		System.out.println("Hi!");
 		System.out.println("스페이스바 힌트는");
 		System.out.println("어디 있을까");
