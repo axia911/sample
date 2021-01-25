@@ -9,6 +9,12 @@ public class Test {
 		System.out.println("Hi!4");
 		System.out.println("되는겨?");
 
+
+		System.out.println("Hi!");
+
+		System.out.println("Hi!");
+
+		System.out.println("Hi!");
 	}
 
 }
