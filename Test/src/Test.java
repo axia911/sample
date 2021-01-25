@@ -17,6 +17,8 @@ public class Test {
 		System.out.println("ABC");
 		System.out.println("머지툴");
 		System.out.println("나도나도 하고싶어 !!!!!!!!!!!!");
+		System.out.println("머지툴 두번쨰");
+		System.out.println("머지툴 두번쨰");
 		
 	
 		System.out.println("머지툴");
