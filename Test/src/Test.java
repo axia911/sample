@@ -13,7 +13,7 @@ public class Test {
 		System.out.println("1");
 		System.out.println("BBCDEFG");
 		System.out.println("ABC");
-		System.out.println("지연2133");
+		System.out.println("오늘의 점심은 떡뽁이");
 		System.out.println("재힝~2");
 		System.out.println("ABCDE");
 		
