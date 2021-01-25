@@ -5,7 +5,7 @@ public class Test {
 		System.out.println("311111111111111111");
 		System.out.println("BB히히");
 		System.out.println("Hi my name is jhn");
-		System.out.println("뭐해야됨");
+		System.out.println("머지툴");
 		
 	}
 
