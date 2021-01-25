@@ -3,6 +3,7 @@ public class Test {
 
 	public static void main(String[] args) {
 
+
 		System.out.println("Hi!나누구게"); 
 		System.out.println("장현나지 누구긴 누구야"); 
 		System.out.println("1");
