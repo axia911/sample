@@ -36,7 +36,7 @@ public class Test {
 
 		System.out.println("~강강강~");
 =======
-		System.out.println("~떡복이~");
+		System.out.println("~떡복이순대~");
 		System.out.println("~맛나겠네~");
 >>>>>>> branch 'main' of https://github.com/axia911/sample
 	}
