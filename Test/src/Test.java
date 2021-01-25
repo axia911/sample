@@ -14,6 +14,8 @@ public class Test {
 		System.out.println("머지툴");
 		System.out.println("왜 안돼");
 		System.out.println("왜 안돼");
+		System.out.println("예스!");
+		System.out.println("잘하자 눈치껏");
 		
 	}
 
