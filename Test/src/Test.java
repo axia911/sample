@@ -3,6 +3,7 @@ public class Test {
 
 	public static void main(String[] args) {
 <<<<<<< HEAD
+<<<<<<< HEAD
 		System.out.println("Hi!");
 		System.out.println("Hi!나누구게"); 
 		System.out.println("장현나지 누구긴 누구야"); 
@@ -36,8 +37,13 @@ public class Test {
 
 		System.out.println("~강강강~");
 =======
+		System.out.println("~떡복이~");
+		System.out.println("~되는겨???~");
+>>>>>>> branch 'main' of https://github.com/axia911/sample
+=======
 		System.out.println("~떡복이순대~");
-		System.out.println("~맛나겠네~");
+<<<<<<< HEAD
+>>>>>>> branch 'main' of https://github.com/axia911/sample
 >>>>>>> branch 'main' of https://github.com/axia911/sample
 	}
 
