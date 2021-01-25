@@ -16,7 +16,11 @@ public class Test {
 		System.out.println("머지툴 두번쨰");
 		System.out.println("왜 난 안되는겨?????");
 		System.out.println("재힝11");
-		System.out.println("지연11");
+		System.out.println("재힝1");
+		System.out.println("재힝22");
+		System.out.println("재힝333");
+		System.out.println("재힝4444");
+	
 		
 		System.out.println("아아아아아악 나도 하고싶어 !!!!!!!!");
 		System.out.println("그만 올려이것들아!!!!!!!!!!!");
