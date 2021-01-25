@@ -12,6 +12,5 @@ public class Test1 {
 		System.out.println("재후닝~");
 		System.out.println("문재훈 멍청이");
 		System.out.println("????");
-		System.out.println("형 잤죠?");
 	}
 }
