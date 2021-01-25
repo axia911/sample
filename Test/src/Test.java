@@ -10,6 +10,7 @@ public class Test {
 		System.out.println("BBCDEFG");
 		System.out.println("ABC");
 		System.out.println("머지툴");
+		System.out.println("머지툴 두번쨰");
 		
 	}
 
