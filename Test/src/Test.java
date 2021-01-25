@@ -5,6 +5,7 @@ public class Test {
 		System.out.println("31");
 		System.out.println("A");
 		System.out.println("Hi");
+		System.out.println("두둥등장");
 	}
 
 }
