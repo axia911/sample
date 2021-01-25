@@ -6,10 +6,13 @@ public class Test1 {
 		System.out.println("예압");
 		System.out.println("여긴 사람없니?");
 		System.out.println("재후닝~");
-		System.out.println("되는건지 어케 확인해바??");
-		System.out.println("재혀나 되고있는겨????");
+		System.out.println("문재훈 멍청이");
+		System.out.println("????");
 		System.out.println("형 잤죠?");
 
+
+		System.out.println("조요요오옹!");
+		
 
 		System.out.println("파일도 올라가나?");
 	}
