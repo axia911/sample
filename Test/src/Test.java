@@ -33,6 +33,7 @@ public class Test {
 		
 
 
+		System.out.println("~강강강~");
 	}
 
 }
