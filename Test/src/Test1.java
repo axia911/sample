@@ -2,10 +2,14 @@
 public class Test1 {
 	public Test1() {
 		System.out.println("파일도 올라가나?");
-<<<<<<< HEAD
+
 		System.out.println("새로운거네");
-=======
+
 		System.out.println("예압");
->>>>>>> branch 'main' of https://github.com/axia911/sample
+		System.out.println("여긴 사람없니?");
+		System.out.println("재후닝~");
+		System.out.println("되는건지 어케 확인해바??");
+		System.out.println("재혀나 되고있는겨????");
+
 	}
 }
