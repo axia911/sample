@@ -8,6 +8,7 @@ public class Test1 {
 		System.out.println("여긴 사람없니?");
 		System.out.println("재후닝~");
 		System.out.println("되는건지 어케 확인해바??");
+		System.out.println("형 잤죠?");
 
 	}
 }
