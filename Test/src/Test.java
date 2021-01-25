@@ -5,7 +5,7 @@ public class Test {
 		System.out.println("1");
 		System.out.println("BBCDEFG");
 		System.out.println("ABC");
-		System.out.println("재힝");
+		System.out.println("재힝1");
 		
 	}
 
