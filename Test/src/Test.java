@@ -12,6 +12,7 @@ public class Test {
 		System.out.println("재힝4444");
 		System.out.println("지연11");
 		System.out.println("재힝~");
+		System.out.println("제발좀 돼라");
 		
 	}
 
