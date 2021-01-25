@@ -14,6 +14,13 @@ public class testPSW {
 		System.out.println("마");
 		System.out.println("바");
 		System.out.println("사");
+		System.out.println("아");
+		System.out.println("장");
+		System.out.println("차");
+		System.out.println("카");
+		System.out.println("타");
+		System.out.println("파");
+		System.out.println("하");
 	}
 
 }
