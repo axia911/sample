@@ -6,7 +6,7 @@ public class Test {
 		System.out.println("장현나지 누구긴 누구야"); 
 		System.out.println("1");
 		System.out.println("BBCDEFG");
-		System.out.println("ABC");
+		System.out.println("YSY");
 		System.out.println("재힝ddddd11ㅗㅗ");
 		System.out.println("재힝1");
 		System.out.println("재힝22");
