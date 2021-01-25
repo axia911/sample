@@ -8,8 +8,13 @@ public class Test {
 		System.out.println("YO");
 		System.out.println("hiihi");
 		System.out.println("뭐해야됨");
+		System.out.println("31");
+		System.out.println("A");
+		System.out.println("A");
+		System.out.println("A");		
+		System.out.println("1");
+		System.out.println("BBCDEFG");
 		System.out.println("ABC");
-		System.out.println("Hi my name is jhn");
 		System.out.println("머지툴");
 		System.out.println("나도나도 하고싶어 !!!!!!!!!!!!");
 		
