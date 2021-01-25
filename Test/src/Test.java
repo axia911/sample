@@ -6,14 +6,8 @@ public class Test {
 		System.out.println("1");
 		System.out.println("BBCDEFG");
 		System.out.println("ABC");
-		System.out.println("재힝ddddd11ㅗㅗ");
-		System.out.println("재힝1");
-		System.out.println("재힝22");
-		System.out.println("재힝333");
-		System.out.println("재힝4444");
-		System.out.println("지연122221");
-		System.out.println("재힝~");
-		
+		System.out.println("~정리중~");
+
 	}
 
 }
