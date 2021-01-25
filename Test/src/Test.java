@@ -16,6 +16,11 @@ public class Test {
 		System.out.println("재힝~");
 		System.out.println("스페이스바 힌트는");
 		System.out.println("어디 있을까");
+		System.out.println("1.강사님자리");
+		System.out.println("2.책상 밑");
+		System.out.println("3.사물함");
+		System.out.println("4.정수기");
+		System.out.println("5.본체 뒤");
 		
 		
 	}
