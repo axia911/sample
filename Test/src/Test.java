@@ -12,5 +12,7 @@ public class Test {
 	
 		System.out.println("장현나씨 아무것도 안한대요");
 		System.out.println("테스트중이다");
+		System.out.println("bogo");
+		System.out.println("테스트중이다dlfakdi");
 	}
 }
