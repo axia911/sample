@@ -10,6 +10,7 @@ public class Test1 {
 		System.out.println("되는건지 어케 확인해바??");
 		System.out.println("재혀나 되고있는겨????");
 		System.out.println("형 잤죠?");
+		System.out.println("하하");
 
 	}
 }
