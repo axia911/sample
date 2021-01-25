@@ -2,6 +2,7 @@
 public class Test {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 
 		System.out.println("다시");
 
@@ -13,6 +14,8 @@ public class Test {
 		System.out.println("2");
 		System.out.println("A");
 		System.out.println("Hi");
+=======
+>>>>>>> refs/remotes/origin/main
 		System.out.println("~떡복이순대~");
 		System.out.println("~떡튀순~");
 
