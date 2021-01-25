@@ -18,6 +18,8 @@ public class Test {
 		System.out.println("Hi!hahaha");
 
 		System.out.println("Hi!");
+		
+		System.out.println("그래서 현나의 스페이스바는 어디에?");
 	}
 
 }
