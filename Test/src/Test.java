@@ -5,7 +5,7 @@ public class Test {
 		System.out.println("pull 어케함");
 
 
-		System.out.println("Hi!2");
+		System.out.println("Hi!3");
 
 	}
 
