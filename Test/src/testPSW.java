@@ -7,7 +7,6 @@ public class testPSW {
 		System.out.println("우");
 		System.out.println("에");
 		System.out.println("오");
-		System.out.println("오");
 	}
 
 }
