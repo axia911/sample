@@ -10,5 +10,7 @@ public class Test1 {
 		System.out.println("재혀나 되고있는겨????");
 		System.out.println("형 잤죠?");
 
+
+		System.out.println("파일도 올라가나?");
 	}
 }

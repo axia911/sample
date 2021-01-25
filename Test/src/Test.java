@@ -6,6 +6,8 @@ public class Test {
 		System.out.println("~떡튀순~");
 
 		System.out.println("Hi!");
+		System.out.println("Hi!3");
+		System.out.println("Hi!4");
 
 	}
 
