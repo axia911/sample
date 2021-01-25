@@ -11,6 +11,11 @@ public class Test1 {
 		System.out.println("문재훈 멍청이");
 		System.out.println("????");
 		System.out.println("형 잤죠?");
+<<<<<<< HEAD
+=======
+		System.out.println("하하");
+		System.out.println("배고프다");
+>>>>>>> branch 'main' of https://github.com/axia911/sample
 =======
 
 	}
