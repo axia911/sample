@@ -9,6 +9,7 @@ public class Test {
 		System.out.println("=정리=");
 		System.out.println("왜 다 없어졌어 ?");
 		System.out.println("테스트 완료");
+		System.out.println("재힝");
 
 	
 
