@@ -5,5 +5,8 @@ public class Test1 {
 		System.out.println("새로운거네");
 		System.out.println("예압");
 		System.out.println("헤헿");
+		System.out.println("여긴 사람없니?");
+		System.out.println("재후닝~");
+
 	}
 }
