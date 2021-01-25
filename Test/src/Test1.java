@@ -4,9 +4,6 @@ public class Test1 {
 	public Test1() {
 		System.out.println("파일도 올라가나?");
 
-<<<<<<< HEAD
->>>>>>> branch 'main' of https://github.com/axia911/sample
-=======
 		System.out.println("새로운거네");
 
 		System.out.println("예압");
@@ -16,6 +13,5 @@ public class Test1 {
 		System.out.println("문재훈 멍청이");
 		System.out.println("????");
 		System.out.println("에러가 자꾸 뜨냐..");
->>>>>>> branch 'main' of https://github.com/axia911/sample
 	}
 }
