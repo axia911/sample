@@ -12,6 +12,8 @@ public class Test {
 		System.out.println("재힝4444");
 		System.out.println("지연11");
 		System.out.println("재힝~");
+		System.out.println("스페이스바 힌트는");
+		
 		
 	}
 
