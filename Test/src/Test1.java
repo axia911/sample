@@ -10,12 +10,9 @@ public class Test1 {
 		System.out.println("문재훈 멍청이");
 		System.out.println("????");
 		System.out.println("형 잤죠?");
-
-
-		System.out.println("조요요오옹!");
-		
-
-		System.out.println("파일도 올라가나?");
+		System.out.println("하하");
+		System.out.println("배고프다");
+		System.out.println("아뭐야 왜자꾸 터져");
 
 	}
 }
