@@ -15,6 +15,7 @@ public class Test1 {
 =======
 		System.out.println("하하");
 		System.out.println("배고프다");
+		System.out.println("아뭐야 왜자꾸 터져");
 >>>>>>> branch 'main' of https://github.com/axia911/sample
 =======
 
