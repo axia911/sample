@@ -9,6 +9,10 @@ public class Test {
 		System.out.println("~정리중~");
 		System.out.println("시러시러~");
 
+		System.out.println("~허허~");
+		System.out.println("~시러시러~");
+		
+		System.out.println("~허허~");
 	}
 
 }
