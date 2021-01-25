@@ -7,7 +7,12 @@ public class Test {
 		System.out.println("BBCDEFG");
 		System.out.println("ABC");
 		System.out.println("재힝ddddd11ㅗㅗ");
+		System.out.println("재힝1");
+		System.out.println("재힝22");
+		System.out.println("재힝333");
+		System.out.println("재힝4444");
 		System.out.println("지연11");
+		System.out.println("재힝~");
 		
 	}
 
