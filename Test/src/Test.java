@@ -15,6 +15,7 @@ public class Test {
 		System.out.println("지연11");
 		System.out.println("재힝~");
 		System.out.println("스페이스바 힌트는");
+		System.out.println("어디 있을까");
 		
 		
 	}
