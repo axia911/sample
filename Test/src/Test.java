@@ -13,6 +13,8 @@ public class Test {
 		System.out.println("ABCDE");
 		System.out.println("충돌나라!");
 		
+		System.out.println("~정리중~");
+
 	}
 
 }
