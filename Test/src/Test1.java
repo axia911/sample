@@ -10,7 +10,7 @@ public class Test1 {
 		System.out.println("헤헿");
 		System.out.println("여긴 사람없니?");
 		System.out.println("재후닝~");
-		System.out.println("문재훈 멍청이");
+		System.out.println("문재훈 브론즈");
 		System.out.println("????");
 		System.out.println("에러가 자꾸 뜨냐..그러게");
 	}
