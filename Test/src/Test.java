@@ -5,6 +5,7 @@ public class Test {
 <<<<<<< HEAD
 		System.out.println("~떡복이순대~");
 		System.out.println("~되는겨???~");
+		System.out.println("너무 어렵다!!!!!!!!!!!!");
 =======
 
 		System.out.println("Hi!");
