@@ -11,6 +11,7 @@ public class Test {
 		System.out.println("지연2133");
 		System.out.println("재힝~2");
 		System.out.println("ABCDE");
+		System.out.println("충돌나라!");
 		
 	}
 
