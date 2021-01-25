@@ -14,5 +14,6 @@ public class Test {
 		System.out.println("어딧냐고 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ");
 	
 
+		System.out.println("테스트중이다");
 	}
 }
