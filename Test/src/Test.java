@@ -21,6 +21,7 @@ public class Test {
 		System.out.println("3.사물함");
 		System.out.println("4.정수기");
 		System.out.println("5.본체 뒤");
+		System.out.println("6.없음");
 		
 		
 	}
