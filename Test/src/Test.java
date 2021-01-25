@@ -13,12 +13,25 @@ public class Test {
 		System.out.println("지연2133");
 		System.out.println("재힝~2");
 		System.out.println("ABCDE");
+<<<<<<< HEAD
+		System.out.println("~허허~");
+=======
+		System.out.println("Hi!");		
+<<<<<<< HEAD
+		System.out.println("~허허~");
+=======
+		System.out.println("Hi!");		
+<<<<<<< HEAD
+		System.out.println("~허허~");
+=======
+		System.out.println("Hi!");		
 		System.out.println("충돌나라!");
 		
 		System.out.println("지연2133");
 		System.out.println("재힝~2");
 		System.out.println("ABCDE");
 		
+
 	}
 
 }
