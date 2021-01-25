@@ -6,6 +6,7 @@ public class Test {
 
 		System.out.println("Hi!");
 		System.out.println("=정리=");
+		System.out.println("왜 다 없어졌어 ?");
 
 	}
 }
