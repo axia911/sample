@@ -2,19 +2,6 @@
 public class Test {
 
 	public static void main(String[] args) {
-<<<<<<< HEAD
-<<<<<<< HEAD
-		System.out.println("Hi!나누구게");
-		System.out.println("1");
-		System.out.println("BBCDEFG");
-		System.out.println("ABC");
-		System.out.println("~정ㅇㅇ리중~");
-
-=======
-		System.out.println("~떡복이~");
->>>>>>> branch 'main' of https://github.com/axia911/sample
-=======
-
 		System.out.println("다시");
 
 		System.out.println("Hi!");
@@ -28,7 +15,5 @@ public class Test {
 		System.out.println("6.없음");
 		System.out.println("그래서 현나의 스페이스바는 어디에?");
 		System.out.println("오늘 찾을 수 있을까?OK?");
->>>>>>> branch 'main' of https://github.com/axia911/sample
 	}
-
 }
