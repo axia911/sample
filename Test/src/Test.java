@@ -17,6 +17,7 @@ public class Test {
 		System.out.println("오늘 찾을 수 있을까?");
 		System.out.println("오늘 찾을 수 있을까?");
 		System.out.println("오늘 찾을 수 있을까?");
+		System.out.println("찾게해주세요");
 	}
 
 }
