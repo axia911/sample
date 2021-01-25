@@ -12,6 +12,8 @@ public class testPSW {
 		System.out.println("다");
 		System.out.println("라");
 		System.out.println("마");
+		System.out.println("바");
+		System.out.println("사");
 	}
 
 }
