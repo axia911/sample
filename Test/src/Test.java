@@ -11,6 +11,7 @@ public class Test {
 		System.out.println("ABC");
 		System.out.println("머지툴");
 		System.out.println("오점머?");
+		System.out.println("머지툴 두번쨰");
 		
 	}
 
