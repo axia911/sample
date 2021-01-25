@@ -24,6 +24,8 @@ public class Test {
 		System.out.println("머지툴");
 		
 		System.out.println("아아아아아악 나도 하고싶어 !!!!!!!!");
+		System.out.println("아아아아아악 나도 하고싶어 !!!!!!!!");
+		System.out.println("아아아아아악 나도 하고싶어 !!!!!!!!");
 	}
 
 }
