@@ -14,6 +14,5 @@ public class Test5 {
 		{
 			System.out.println("2"+"*"+i+"="+i*2);
 		}
-		System.out.println("이게 푸쉬 되는거 맞는겨?");
 	}
 }
