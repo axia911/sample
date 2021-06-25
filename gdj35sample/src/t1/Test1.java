@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 package t1;
 
 public class Test1 {
@@ -15,5 +16,14 @@ public class Test1 {
 		System.out.println("아아 마이크 테스트");
 
 	}
+=======
+package t1;
+
+public class Test1 {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			System.out.println("moo~ya~ho");
+	}
+>>>>>>> branch 'main' of https://github.com/axia911/sample.git
 }
 >>>>>>> branch 'main' of https://github.com/axia911/sample.git
