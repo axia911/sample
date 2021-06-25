@@ -16,5 +16,6 @@ public class Test1 {
 		System.out.println("test1232");
 		System.out.println("test1232");
 		System.out.println("여긴1!!!");
+		System.out.println("1");
 	}
 }
