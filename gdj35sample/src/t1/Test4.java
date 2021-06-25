@@ -13,6 +13,11 @@ public class Test4 {
 		System.out.println("하이용");
 		System.out.println("여러분 어딨죠");
 		System.out.println("우오앙");
+<<<<<<< HEAD
 		System.out.println("다 터트려버리겠다");
+=======
+		System.out.println("어렵당");
+		System.out.println("영민아 문법 맞춰야지");
+>>>>>>> branch 'main' of https://github.com/axia911/sample.git
 	}
 }
