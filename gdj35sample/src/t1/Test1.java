@@ -14,6 +14,7 @@ public class Test1 {
 			System.out.println("moo~ya~ho");
 			
 			System.out.println("EEEEEEE");
+
 	
 }
 }
