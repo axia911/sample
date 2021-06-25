@@ -9,11 +9,8 @@ public class Test3 {
 		System.out.println("고나연!!!!!");
 		System.out.println("제발 올라가라!!!!");
 		System.out.println("Hello");
-<<<<<<< HEAD
-		
-=======
 		System.out.println("ㅁ앎ㅇ나러마ㅣ얾ㄷ");
->>>>>>> branch 'main' of https://github.com/axia911/sample.git
+		
 		System.out.println("잘 모르겠네");
 		System.out.println("잘 모르겠네");
 		System.out.println("고나연고나연고나연");
