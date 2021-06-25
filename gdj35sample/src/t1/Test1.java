@@ -10,5 +10,6 @@ public class Test1 {
 
 		System.out.println("moo~ya~ho");
 		System.out.println("아아 마이크 테스트");
+		System.out.println("1234");
 	}
 }
