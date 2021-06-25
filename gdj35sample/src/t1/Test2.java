@@ -10,7 +10,7 @@ public class Test2 {
 		System.out.println("2번침투!");
 
 		
-		System.out.println("그만 침투하세요");
+		System.out.println("그만 침투하세요..ㅠㅠ");
 		
 	}
 }
