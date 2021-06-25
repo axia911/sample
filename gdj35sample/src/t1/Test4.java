@@ -7,5 +7,6 @@ public class Test4 {
 		System.out.println("이거 우리조 맞늬 영민아 지유야 현아");
 
 		System.out.println("하이용");
+		System.out.println("여러분 어딨죠");
 	}
 }
