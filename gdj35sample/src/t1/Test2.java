@@ -9,6 +9,7 @@ public class Test2 {
 		System.out.println("건정아 ㅎㅇ");
 		System.out.println("건정아 ");
 		System.out.println("원혁 ㅎㅇ");
+		System.out.println("여기 왜 핫해");
 		
 		
 	}
