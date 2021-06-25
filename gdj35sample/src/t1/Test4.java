@@ -3,7 +3,7 @@ package t1;
 public class Test4 {
 	public static void main(String[] args) {
                                                                      
-		System.out.println("깨끗");
+		System.out.println("희두형 핸드폰하고있어요");
 		System.out.println("어렵당");
 		System.out.println("영민아 문법 맞춰야지!!!!");
 		System.out.println("이게 뭐지??");
