@@ -35,6 +35,10 @@ public class Test1 {
 		System.out.println("여긴1!!!");
 		System.out.println("1");
 		System.out.println("머지");
+
+		System.out.println("1");
+		System.out.println("1번침투");
+		
 	}
 
 }
