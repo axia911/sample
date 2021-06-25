@@ -10,5 +10,6 @@ public class Test3 {
 		System.out.println("제발 올라가라!!!!");
 		System.out.println("오늘은 금요일~~");
 		System.out.println("Hello");
+		System.out.println("ㅁ앎ㅇ나러마ㅣ얾ㄷ");
 	}
 }
