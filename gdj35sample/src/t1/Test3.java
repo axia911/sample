@@ -10,5 +10,7 @@ public class Test3 {
 		System.out.println("제발 올라가라!!!!");
 		System.out.println("잘 모르겠네");
 		System.out.println("Hello");
+		System.out.println("Hello");
+		
 	}
 }
