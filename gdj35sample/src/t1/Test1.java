@@ -12,6 +12,7 @@ public class Test1 {
 
 
 			System.out.println("moo~ya~ho");
+
 	
 }
 }
