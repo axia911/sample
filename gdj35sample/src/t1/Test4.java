@@ -14,5 +14,9 @@ public class Test4 {
 		System.out.println("어렵당");
 		System.out.println("영민아 문법 맞춰야지!!!!");
 		System.out.println("이게 뭐지??");
+		
+System.out.println("나도 할 수 있다?bbㅠㅠ");
+		
+		
 	}
 }
