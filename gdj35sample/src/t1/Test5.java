@@ -5,6 +5,7 @@ public class Test5 {
 	System.out.println("침투");
 		System.out.println("어떻게!!");
 		System.out.println("침투다!!");
+		System.out.println("왜!!");
 	}
 
 
