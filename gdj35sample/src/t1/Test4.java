@@ -21,6 +21,5 @@ public class Test4 {
 		System.out.println("하고있다!!");
 
 		
-		
 	}
 }
