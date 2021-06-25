@@ -7,6 +7,7 @@ public class Test1 {
 		System.out.println("???????????????");
 		System.out.println("Hi");
 		System.out.println("test");
+		System.out.println("ㅜㅠ");
 	
 		System.out.println("Hi2");
 		System.out.println("Hi3");
