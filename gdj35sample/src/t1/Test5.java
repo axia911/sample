@@ -19,5 +19,11 @@ public class Test5 {
 	
 	System.out.println("뜨나?");
 		System.out.println("어떻게!!");
+		System.out.println("왜!!");
 	}
+<<<<<<< HEAD
+
 }
+=======
+}
+>>>>>>> branch 'main' of https://github.com/axia911/sample.git
