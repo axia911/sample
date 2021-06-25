@@ -19,5 +19,5 @@ public class Test2 {
 		System.out.println("3대 500 장원혁");
 		System.out.println("유투브스타 최정민");
 		
-	}
+}
 }
