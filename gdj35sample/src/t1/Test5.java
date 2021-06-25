@@ -7,6 +7,7 @@ public class Test5 {
 		
 		for(int i = 0 ; i <= 4 ; i++) {
 			System.out.println(a);
+			System.out.println();
 		}
 
 	}
