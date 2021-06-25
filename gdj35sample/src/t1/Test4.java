@@ -12,5 +12,9 @@ public class Test4 {
 		System.out.println("더럽히겠다.");
 		System.out.println("더럽히겠다.");
 		
-	}                                                                                                   
+
+	System.out.println("clean");
+
+		
+}
 }
