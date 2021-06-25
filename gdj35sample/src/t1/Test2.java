@@ -15,6 +15,14 @@ public class Test2 {
 
 		System.out.println("건정아 ");
 		System.out.println("원혁 ㅎㅇ");
+
+		System.out.println("나는 바람");
+		
+		System.out.println("잠시 들렸다 가요 ^^ ;;");
+		System.out.println("이번이다!!!");
+
+		
+
 		
 	}
 }
