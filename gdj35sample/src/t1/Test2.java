@@ -18,5 +18,6 @@ public class Test2 {
 >>>>>>> branch 'main' of https://github.com/axia911/sample.git
 
 		System.out.println("김도헌입니다");
+		System.out.println("오우쉣 ~~~~~~~~ 무냐구~~~~~~~~~~~~~");
 	}
 }
