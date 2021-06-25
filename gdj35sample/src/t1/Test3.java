@@ -8,6 +8,6 @@ public class Test3 {
 		System.out.println("집에 가자");
 		System.out.println("고나연!!!!!");
 		System.out.println("제발 올라가라!!!!");
-		System.out.println("나연이 성공했네 ㅋ축하해");
+		System.out.println("Hello");
 	}
 }
