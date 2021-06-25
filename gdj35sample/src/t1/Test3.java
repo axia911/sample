@@ -42,5 +42,6 @@ public class Test3 {
 		System.out.println("아뇨 뚱인데요?!");
 		
 		System.out.println("mbti란....");
+		System.out.println("ㅁ여기다@@");
 	}
 }
