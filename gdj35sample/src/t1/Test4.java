@@ -21,7 +21,6 @@ public class Test4 {
 		System.out.println("하고있다!!");
 		System.out.println("어떻게!!");
 
-		System.out.println("안녕하세요~~");
 		
 	}
 }
