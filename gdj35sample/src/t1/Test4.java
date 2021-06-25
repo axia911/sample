@@ -21,6 +21,7 @@ System.out.println("하고있다?");
 System.out.println("바꿨다.");
 
 System.out.println("할 수 있다!!!");
+System.out.println("나도다!!!");
 
 		
 		
