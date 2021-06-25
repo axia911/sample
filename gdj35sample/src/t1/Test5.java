@@ -18,5 +18,6 @@ public class Test5 {
 	System.out.println("침투");
 	
 	System.out.println("뜨나?");
+		System.out.println("어떻게!!");
 	}
 }
