@@ -10,6 +10,7 @@ public class Test5 {
 		System.out.println("유투브 스타 JM");
 		System.out.println("나도 병합!!!");
 		System.out.println("병합병합!!!!!");
+		System.out.println("실시간이다!!!!!!");
 	}
 
 
