@@ -13,6 +13,8 @@ public class Test3 {
 		System.out.println("잘 모르겠네");
 		System.out.println("잘 모르겠네");
 		System.out.println("고나연고나연고나연");
+		
+		System.out.println("안녕하세요^^");
 		System.out.println("수빈 보여?");
 		System.out.println("되는거야 마는거야!!!!!!!!!!!!!!!!!!!!!");
 		System.out.println("dddddddddddd");
