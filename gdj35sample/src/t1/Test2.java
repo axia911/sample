@@ -8,5 +8,9 @@ public class Test2 {
 		System.out.println("이번이다!!!");
 		System.out.println("2번침투!");
 		System.out.println("글남기면 찾아갑니다");
+
+		System.out.println("이건 뭐야 또 왜 안됨");
+		
+		
 	}
 }
