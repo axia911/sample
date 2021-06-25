@@ -6,5 +6,6 @@ public class Test2 {
 		System.out.println("김도헌!!");
 		// TODO Auto-generated method stub
 		System.out.println("abcd");
+		System.out.println("테스트테스트1");
 	}
 }
