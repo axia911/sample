@@ -9,5 +9,6 @@ public class Test1 {
 		System.out.println("test");
 		
 		System.out.println("Hi2");
+		System.out.println("ㅡㅡ");
 	}
 }
