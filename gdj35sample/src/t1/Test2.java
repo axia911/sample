@@ -11,6 +11,9 @@ System.out.println("청국장");
 		
 		System.out.println("그만 침투하세요..ㅠㅠ");
 >>>>>>> branch 'main' of https://github.com/axia911/sample.git
+
+		System.out.println("그만 침투하세요..ㅠㅠ");
+		System.out.println("ㅋㅋㅋㅋㅋㅋㅋㅋㅋ");
 		
 	}
 }

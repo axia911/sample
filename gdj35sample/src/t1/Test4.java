@@ -19,6 +19,7 @@ public class Test4 {
 		System.out.println("와!!");
 		System.out.println("나도!!!");
 		System.out.println("하고있다!!");
+		System.out.println("어떻게!!");
 
 		
 	}
