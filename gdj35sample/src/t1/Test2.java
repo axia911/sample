@@ -15,5 +15,6 @@ public class Test2 {
 		System.out.println("헤이~");
 		System.out.println("선생님들 ?");
 		System.out.println("선생님들 아무도없나요 ?");
+		System.out.println("김도헌입니다");
 	}
 }
