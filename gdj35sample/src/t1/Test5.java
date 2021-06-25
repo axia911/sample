@@ -11,6 +11,7 @@ public class Test5 {
 		}
 		
 		System.out.println("아니 왜 안돼");
+		System.out.println("ddddddddddddddd");
 
 	}
 }
