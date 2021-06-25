@@ -28,5 +28,7 @@ public class Test3 {
 		System.out.println("박수빈");
 		
 		System.out.println("이클립스 꺼져라");
+		
+		System.out.println("시훈이꺼 보인닷");
 	}
 }
