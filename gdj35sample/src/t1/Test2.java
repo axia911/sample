@@ -7,5 +7,6 @@ public class Test2 {
 		// TODO Auto-generated method stub
 		System.out.println("abcd");
 		System.out.println("테스트테스트1");
+		System.out.println("왜 안되는거냐 혁준아");
 	}
 }
