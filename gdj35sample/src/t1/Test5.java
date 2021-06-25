@@ -20,22 +20,6 @@ public class Test5 {
 	System.out.println("뜨나?");
 		System.out.println("어떻게!!");
 		System.out.println("왜!!");
-<<<<<<< HEAD
-		System.out.println("ㅋㅋㅋ");
-=======
-		System.out.println("나도 병합햅고싶다!");
-		System.out.println("유투브 스타 JM");
-		System.out.println("나도 병합!!!");
->>>>>>> branch 'main' of https://github.com/axia911/sample.git
 	}
-<<<<<<< HEAD
-=======
-
-
->>>>>>> branch 'main' of https://github.com/axia911/sample.git
+	
 }
-<<<<<<< HEAD
-=======
-
-
->>>>>>> branch 'main' of https://github.com/axia911/sample.git
