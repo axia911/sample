@@ -18,6 +18,7 @@ public class Test3 {
 		System.out.println("수빈 보여?");
 		System.out.println("되는거야 마는거야!!!!!!!!!!!!!!!!!!!!!");
 		System.out.println("dddddddddddd");
+		System.out.println("재현씨 잘 지내죠?");
 		
 		
 		
@@ -33,5 +34,7 @@ public class Test3 {
 		System.out.println("시훈이꺼 보인닷");
 		
 		System.out.println("안녕하세요 ^^");
+		
+		System.out.println("범인 잡았다!");
 	}
 }
