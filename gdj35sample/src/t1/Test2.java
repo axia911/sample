@@ -51,5 +51,3 @@ public class Test2 {
 	}
 
 }
-
->>>>>>> branch 'main' of https://github.com/axia911/sample.git
