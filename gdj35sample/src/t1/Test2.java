@@ -5,7 +5,6 @@ public class Test2 {
 		
 		
 		
-		
 		System.out.println("그만 침투하세요..ㅠㅠ");
 		System.out.println("그만 침투하세요..ㅠㅠ");
 		System.out.println("ㅋㅋㅋㅋㅋㅋㅋㅋㅋ");
