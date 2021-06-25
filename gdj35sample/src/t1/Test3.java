@@ -43,5 +43,6 @@ public class Test3 {
 		
 		System.out.println("mbti란....");
 		System.out.println("ㅁ여기다@@");
+		System.out.println("제현 맛집 잘 먹고갑니다");
 	}
 }
