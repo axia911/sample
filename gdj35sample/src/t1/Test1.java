@@ -9,6 +9,7 @@ public class Test1 {
 			System.out.println("moo~ya~ho");
 			
 			System.out.println("EEEEEEE");
+			System.out.println("안보임?");
 
 	
 
