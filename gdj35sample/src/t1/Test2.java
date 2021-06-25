@@ -9,12 +9,7 @@ public class Test2 {
 		System.out.println("이번이다!!!");
 		System.out.println("2번침투!");
 
-		
-
-		System.out.println("건정아 ㅎㅇ");
-		System.out.println("건정아 ");
-		System.out.println("원혁 ㅎㅇ");
-		System.out.println("여기 왜 핫해");
+		System.out.println("이건 뭐야 또 왜 안됨");
 		
 		
 	}
