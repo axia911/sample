@@ -17,5 +17,16 @@ public class Test3 {
 		System.out.println("수빈 보여?");
 		System.out.println("되는거야 마는거야!!!!!!!!!!!!!!!!!!!!!");
 		System.out.println("dddddddddddd");
+		
+		
+		
+		System.out.println("박수빈");
+		System.out.println("박수빈");
+		System.out.println("박수빈");
+		System.out.println("박수빈");
+		System.out.println("박수빈");
+		System.out.println("박수빈");
+		
+		
 	}
 }
