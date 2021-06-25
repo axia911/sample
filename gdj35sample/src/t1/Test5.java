@@ -12,5 +12,6 @@ public class Test5 {
 		System.out.println("올린다 진짜로 진짜");
 		System.out.println("올린다 진짜로 진짜");
 		System.out.println("올린다 진짜로 진짜");
+System.out.println("바람 2");
 	}
 }
