@@ -6,5 +6,6 @@ public class Test2 {
 		System.out.println("abcd");
 		System.out.println("테스트테스트1");
 		System.out.println("괴도 키드 왔다감 ㅋㅋㅋㅋ");
+		System.out.println("제가보이시나요?");
 	}
 }
