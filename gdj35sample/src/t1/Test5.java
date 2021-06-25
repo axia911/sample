@@ -17,6 +17,7 @@ public class Test5 {
 	System.out.println("지나가는 나그네입니다.");
 		gugu();
 	}
+	
 	public static void gugu()
 	{
 		for(int i = 1; i <= 9; i++)
@@ -24,4 +25,5 @@ public class Test5 {
 			System.out.println("2 * "+i+"= "+2*i);
 		}
 	}
+	
 }
