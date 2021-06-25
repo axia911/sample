@@ -2,9 +2,9 @@ package t1;
 
 public class Test5 {
 	public static void main(String[] args) {
-	System.out.println("지나가는 나그네입니다.");
-		gugu();
+	System.out.println("침투");
 	}
+<<<<<<< HEAD
 	
 	public static void gugu()
 	{
@@ -15,3 +15,6 @@ public class Test5 {
 	}
 	System.out.println("유투브 : 진해군함제 블루스틱 검색  <<<< JB공연직캠");
 }
+=======
+}
+>>>>>>> branch 'main' of https://github.com/axia911/sample.git
