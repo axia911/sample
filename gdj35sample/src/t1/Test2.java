@@ -10,5 +10,7 @@ public class Test2 {
 		System.out.println("잘 되시나여~~");
 		
 		System.out.println("1 + 1 = ??");
+
+		System.out.println("건정아 ㅎㅇ");
 	}
 }
