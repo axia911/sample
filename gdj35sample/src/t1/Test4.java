@@ -23,6 +23,7 @@ System.out.println("바꿨다.");
 System.out.println("할 수 있다!!!");
 System.out.println("나도다!!!");
 System.out.println("나도커밋!!!");
+System.out.println("와!!");
 
 		
 		
