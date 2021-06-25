@@ -10,6 +10,8 @@ public class Test2 {
 		System.out.println("건정아 ");
 		System.out.println("원혁 ㅎㅇ");
 		
+		System.out.println("테스트");
+		
 		
 	}
 }
