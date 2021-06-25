@@ -9,5 +9,6 @@ public class Test2 {
 		System.out.println("테스트테스트1");
 		System.out.println("왜 안되는거냐 혁준아");
 		System.out.println("괴도 키드 왔다감 ㅋㅋㅋㅋ");
+		System.out.println("이게 나야 혁준상");
 	}
 }
