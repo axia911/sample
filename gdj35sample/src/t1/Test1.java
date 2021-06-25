@@ -27,10 +27,15 @@ public class Test1 {
 		System.out.println("Hi3");
 		System.out.println("ㅡㅡ");
 
+	
+
 		System.out.println("test1232");
 		System.out.println("test1232");
 		System.out.println("test1232");
 		System.out.println("여긴1!!!");
+		System.out.println("1");
+		System.out.println("머지");
+
 		System.out.println("1");
 		System.out.println("1번침투");
 		
