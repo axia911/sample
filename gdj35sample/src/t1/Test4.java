@@ -18,6 +18,7 @@ public class Test4 {
 	System.out.println("clean");
 	System.out.println("나도...!");
 
-		
+	System.out.println("clean???");
+	System.out.println("ㄴㅏ도 머지");		
 }
 }
