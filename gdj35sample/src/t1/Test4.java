@@ -17,6 +17,7 @@ public class Test4 {
 		
 System.out.println("나도 할 수 있다?bbㅠㅠ");
 System.out.println("하고있다?");
+System.out.println("바꿨다.");
 		
 		
 	}
