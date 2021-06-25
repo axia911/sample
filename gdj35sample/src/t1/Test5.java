@@ -12,6 +12,7 @@ public class Test5 {
 		{
 			System.out.println("2 * "+i+"= "+2*i);
 		}
+	}
 	public static void comment()
 	{
 		System.out.println("어서오세요");
