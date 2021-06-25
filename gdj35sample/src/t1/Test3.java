@@ -34,6 +34,6 @@ public class Test3 {
 		
 		System.out.println("안녕하세요 ^^");
 		
-		System.out.println("범인 잡았다");
+		System.out.println("범인 잡았다!");
 	}
 }
