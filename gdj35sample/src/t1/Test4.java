@@ -14,6 +14,7 @@ public class Test4 {
 		
 
 	System.out.println("clean");
+	System.out.println("나도...!");
 
 		
 }
