@@ -9,6 +9,8 @@ public class Test5 {
 			System.out.println(a);
 			System.out.println();
 		}
+		
+		System.out.println("아니 왜 안돼");
 
 	}
 }
