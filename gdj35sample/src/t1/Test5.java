@@ -7,5 +7,7 @@ public class Test5 {
 		System.out.println("Is our team pusing something on?");
 		
 		System.out.println("올린다");
+		
+		System.out.println("hi");
 	}
 }
