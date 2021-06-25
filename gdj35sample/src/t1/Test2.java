@@ -8,5 +8,7 @@ public class Test2 {
 		System.out.println("괴도 키드 왔다감 ㅋㅋㅋㅋ");
 		System.out.println("아이언맨 왔다감!! ㅋㅋㅋㅋ");
 		System.out.println("건정아 배고프지 않니??");
+		System.out.println("선생님들 ?");
+
 	}
 }

@@ -6,5 +6,6 @@ public class Test5 {
 		
 		System.out.println("Is our team pusing something on?");
 		System.out.println("안녕");
+		System.out.println("괴도키드 왔다감 ㅋㅋ");
 	}
 }
