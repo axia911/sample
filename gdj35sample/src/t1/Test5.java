@@ -13,5 +13,5 @@ public class Test5 {
 			System.out.println("2 * "+i+"= "+2*i);
 		}
 	}
-	
+	System.out.println("유투브 : 진해군함제 블루스틱 검색  <<<< JB공연직캠");
 }
