@@ -34,6 +34,7 @@ public class Test2 {
 		System.out.println("김도헌입니다");
 		System.out.println("오우쉣 ~~~~~~~~ 무냐구~~~~~~~~~~~~~");
 		System.out.println("우리조 뭐냐 계속터져 ㅋㅋㅋㅋ 누구야 범인이!!");
+		System.out.println("제발제발제발");
 >>>>>>> branch 'main' of https://github.com/axia911/sample.git
 	}
 }
