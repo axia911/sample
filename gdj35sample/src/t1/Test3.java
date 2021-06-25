@@ -7,5 +7,8 @@ public class Test3 {
 		System.out.println("왜 안되2");
 
 		System.out.println("5시간남았네;");
+		System.out.println("5시간남았네;");
+		System.out.println("5시간남았네;");
+		
 	}
 }
