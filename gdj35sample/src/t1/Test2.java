@@ -11,6 +11,7 @@ public class Test2 {
 		System.out.println("아이유");
 		System.out.println("제발");
 		System.out.println("제발");
+		System.out.println("재시작");
 		
 	}
 }
