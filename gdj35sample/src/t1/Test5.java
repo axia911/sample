@@ -2,16 +2,11 @@ package t1;
 
 public class Test5 {
 	public static void main(String[] args) {
-		
-		int[] a = {1, 2, 3, 4, 5};
-		
-		for(int i = 0 ; i <= 4 ; i++) {
-			System.out.println(a);
-			System.out.println();
-		}
+	
 		
 		System.out.println("아니 왜 안돼");
-		System.out.println("ddddddddddddddd");
+		System.out.println("살려줘~~~!");
+		System.out.println("커밋좀 해보자");
 
 	}
 }
