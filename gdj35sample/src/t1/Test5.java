@@ -6,6 +6,8 @@ public class Test5 {
 		System.out.println("어떻게!!");
 		System.out.println("왜!!");
 		System.out.println("유투브 스타 JM");
+		System.out.println("진해군함제 블루스틱 많이 사랑해주세요~");
+		
 	}
 <<<<<<< HEAD
 
