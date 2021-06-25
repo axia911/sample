@@ -15,8 +15,12 @@ public class Test2 {
 		System.out.println("그만 침투하세요..ㅠㅠ");
 		System.out.println("그만 침투하세요..ㅠㅠ");
 		System.out.println("ㅋㅋㅋㅋㅋㅋㅋㅋㅋ");
+<<<<<<< HEAD
 		System.out.println("드루와");
 		
+=======
+		System.out.println("아이유");
+>>>>>>> branch 'main' of https://github.com/axia911/sample.git
 		
 	}
 }
