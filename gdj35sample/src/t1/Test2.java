@@ -11,8 +11,12 @@ public class Test2 {
 <<<<<<< HEAD
 		System.out.println("안녕 나는 시여니야");
 =======
+
+		System.out.println("헤이~");
 		System.out.println("선생님들 ?");
 		System.out.println("선생님들 아무도없나요 ?");
 >>>>>>> branch 'main' of https://github.com/axia911/sample.git
+
+		System.out.println("김도헌입니다");
 	}
 }
