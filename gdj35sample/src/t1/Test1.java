@@ -37,7 +37,7 @@ public class Test1 {
 
 		System.out.println("1");
 		System.out.println("1번침투");
-		System.out.println("국민은행 99995-602154 ");
+		
 	}
 
 }
