@@ -35,9 +35,19 @@ public class Test3 {
 		System.out.println("시훈이꺼 보인닷");
 		
 		System.out.println("안녕하세요 ^^");
+		System.out.println("삼번!!!");
 		
 		System.out.println("범인 잡았다!");
+<<<<<<< HEAD
 
 		System.out.println("정슬기!!");
+=======
+		
+		System.out.println("아뇨 뚱인데요?!");
+		
+		System.out.println("mbti란....");
+		System.out.println("ㅁ여기다@@");
+		System.out.println("제현 맛집 잘 먹고갑니다");
+>>>>>>> branch 'main' of https://github.com/axia911/sample.git
 	}
 }
