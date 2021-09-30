@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("Bye~");
 		System.out.println("�ÿ�");
 		System.out.println("추가");
+		System.out.println("충돌날껄 ㅎㅎ");
 	}
 
 }
