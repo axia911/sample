@@ -8,6 +8,9 @@ public class Test {
 
 		System.out.println("이 소스코드는 제꺼입니다.");
 		System.out.println("Bye~");
+
+		System.out.println("어떻게 하는거지");
+		System.out.println("Bye~");
 	}
 
 }
