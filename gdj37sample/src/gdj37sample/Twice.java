@@ -1,12 +1,11 @@
 package gdj37sample;
 
-public class Test2 {
+public class Twice {
 
 	public static void main(String[] args) {
-		System.out.println("배고파");
 		System.out.println("이 소스코드는 제꺼입니다.");
-		System.out.println("보여주기식2");
-		System.out.println("뭐지..");
+		 
+		 System.out.println("너무해~너무해~! 암락틔틔!");
 	}
 
 }
