@@ -2,6 +2,10 @@ package gdj37sample;
 
 public class practice_hs {
 	public static void main(String[] args) {
-		System.out.println("¿¬½À¿¬½À¤¾¤¾ ÀßµÇ³ª?");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ßµÇ³ï¿½?");
+		System.out.println("ã„±");
+		System.out.println("ã„´");
+		System.out.println("ã„·");
+		System.out.println("ã„¹");
 	}
 }
