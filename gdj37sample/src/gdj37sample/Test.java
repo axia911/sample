@@ -3,7 +3,8 @@ package gdj37sample;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("½Ã¿ø");
+		System.out.println("Bye~");
+		System.out.println("ï¿½Ã¿ï¿½");
 	}
 
 }
