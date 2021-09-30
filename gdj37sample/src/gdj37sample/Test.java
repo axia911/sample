@@ -4,6 +4,7 @@ public class Test {
 
 	public static void main(String[] args) {
 <<<<<<< HEAD
+<<<<<<< HEAD
 		System.out.println("충돌나보게해보자");
 		System.out.println("연습");
 		System.out.println("연습");
@@ -33,6 +34,9 @@ public class Test {
 		System.out.println("충돌날껄 ㅎㅎ");
 =======
 		System.out.println("hohoho");
+>>>>>>> branch 'main' of https://github.com/axia911/sample.git
+=======
+		System.out.println("이 소스코드는 제꺼입니다.");
 >>>>>>> branch 'main' of https://github.com/axia911/sample.git
 	}
 
