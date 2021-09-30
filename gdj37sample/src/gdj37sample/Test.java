@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("안녕!");
 
 		System.out.println("이 소스코드는 제꺼입니다.");
+		System.out.println("Bye~");
 	}
 
 }
