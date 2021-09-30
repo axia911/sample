@@ -1,4 +1,4 @@
-package gdj37sample;
+ package gdj37sample;
 
 public class Test {
 
@@ -8,7 +8,8 @@ public class Test {
 		System.out.println("Hello22");
 		System.out.println("Bye~");
 		System.out.println("ï¿½Ã¿ï¿½");
-		System.out.println("ì¶”ê°€");
+		System.out.println("ì¶”ê?");
+		System.out.println("¸ð¸£°Ú´Ù ÀÌÇýÁÖ");
 	}
 
 }
