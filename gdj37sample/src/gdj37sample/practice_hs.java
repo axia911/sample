@@ -1,9 +1,7 @@
 package gdj37sample;
 
-public class Test {
-
+public class practice_hs {
 	public static void main(String[] args) {
-		System.out.println("hohoho");
+		System.out.println("testtest");
 	}
-
 }

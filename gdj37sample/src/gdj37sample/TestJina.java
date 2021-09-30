@@ -1,9 +1,10 @@
 package gdj37sample;
 
-public class Test {
+public class TestJina {
 
 	public static void main(String[] args) {
-		System.out.println("hohoho");
+		System.out.println("내맘대로 고치기");
+
 	}
 
 }
