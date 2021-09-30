@@ -3,7 +3,8 @@ package gdj37sample;
 public class TestJina {
 
 	public static void main(String[] args) {
-		System.out.println("³»¸¾´ë·Î °íÄ¡±â");
+		System.out.println("ì´ ì†ŒìŠ¤ì½”ë“œëŠ” ì œêº¼ì…ë‹ˆë‹¤.");
+		
 
 	}
 
