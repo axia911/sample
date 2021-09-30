@@ -21,7 +21,12 @@ public class Test {
 		System.out.println("Bye~");
 		System.out.println("Bye~");
 		System.out.println("Bye~");
+<<<<<<< HEAD
 		System.out.println("Bye~");
+=======
+		System.out.println("Bye~");
+		System.out.println("추가");
+>>>>>>> branch 'main' of https://github.com/axia911/sample.git
 		System.out.println("추�?");
 		System.out.println("�𸣰ڴ� ������");
 		System.out.println("충돌날껄 ㅎㅎ");
