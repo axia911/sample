@@ -5,5 +5,6 @@ public class test3 {
 		System.out.println("연습");
 		System.out.println("연습");
 		System.out.println("연습");
+		System.out.println("연습");
 	}
 }
